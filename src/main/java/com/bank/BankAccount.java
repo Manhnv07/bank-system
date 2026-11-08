@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class BankAccount {
 
-        private static final Logger logger = LoggerFactory.getLogger(BankAccount.class);
+    private static final Logger logger = LoggerFactory.getLogger(BankAccount.class);
 
     private final String accountNumber;
     private double balance;
